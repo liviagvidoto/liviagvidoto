@@ -6,7 +6,10 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 Olá meu nome é Lívia Gonçalves Vidoto 👋
-<p>Atualmente estou cursando o quinto semestre de Analise e Desenvolvimento de Sistemas na Anhanguera, pretendo atuar na área de dados, aplicando mimhas habilidade e tecnologias estudadas </p>
+<p>Atualmente estou cursando o quinto semestre de Analise e Desenvolvimento de Sistemas na Universidade Norte do Paraná, pretendo atuar na área de dados aplicando minhas habilidades e tecnologias estudadas </p>
+
+<h3 align="left">Soft Skills ✨</h3>
+<p>Trabalho em equipe | Organização de documentos | Comunicação | Pensamento analítico</p>
 
 <h3 align="left">Tecnologias 💻</h3>
 <div style="display: inline_block"><br>
@@ -19,8 +22,8 @@ Olá meu nome é Lívia Gonçalves Vidoto 👋
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-  <img align="center" alt="Excel" " height="30" width="40" alt="image" src="https://github.com/user-attachments/assets/b4cb3a63-f367-4ab7-861a-15a566f77a22"/>
-  <img align="center" alt="Linux" <img width="40" height="30" alt="image" src="https://github.com/user-attachments/assets/d0d77b37-c7f0-4b2a-8ef8-43f77ac6644f" />
+  <img align="center" alt="Excel" " height="30" width="40" src="https://github.com/user-attachments/assets/b4cb3a63-f367-4ab7-861a-15a566f77a22"/>
+  <img align="center" alt="Linux" <img width="40" height="30" src="https://github.com/user-attachments/assets/d0d77b37-c7f0-4b2a-8ef8-43f77ac6644f" />
 
 </div>
 
@@ -29,7 +32,7 @@ Olá meu nome é Lívia Gonçalves Vidoto 👋
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liviavidoto2@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/lívia-vidoto)
 
-
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liviagvidoto/liviagvidoto/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liviagvidoto/liviagvidoto/output/github-contribution-grid-snake-dark.svg">
