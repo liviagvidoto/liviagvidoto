@@ -1,7 +1,14 @@
-## Olá meu nome é Lívia Gonçalves Vidoto 👋
-<p>Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Anhanguera, pretendo trabalhar atuar na área de dados, aplicando meus conhecimentos e metodoligias estudados </p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-Tecnologias 📚
+<img align="center" alt="" src="./src/header-gif.gif">
+Olá meu nome é Lívia Gonçalves Vidoto 👋
+<p>Atualmente estou cursando o quinto semestre de Analise e Desenvolvimento de Sistemas na Anhanguera, pretendo atuar na área de dados, aplicando mimhas habilidade e tecnologias estudadas </p>
+
+<h3 align="left">Tecnologias 💻</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -12,6 +19,11 @@ Tecnologias 📚
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
 </div>
+
+<h3 align="left">Entre em contato comigo! 🗨️</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liviavidoto2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/liviavidoto/)
 
 
 <picture align="center">
