@@ -29,7 +29,7 @@ Olá meu nome é Lívia Gonçalves Vidoto 👋
 <h3 align="left">Entre em contato comigo! 🗨️</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liviavidoto2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/lívia-vidoto)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/liviagvidoto)
 
 </div>
 <picture align="center">
