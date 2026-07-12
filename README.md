@@ -1,5 +1,5 @@
 Olá meu nome é Lívia Gonçalves Vidoto 👋
-<p>Atualmente estou cursando o quinto semestre de Analise e Desenvolvimento de Sistemas na Universidade Norte do Paraná, pretendo atuar na área de dados aplicando minhas habilidades e tecnologias estudadas </p>
+<p>Graduada em Analise e Desenvolvimento de Sistemas na Universidade Norte do Paraná, pretendo atuar na área de dados aplicando minhas habilidades e tecnologias estudadas </p>
 
 <p>Trabalho em equipe | Organização de documentos | Comunicação | Pensamento analítico</p>
 
