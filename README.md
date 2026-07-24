@@ -10,11 +10,6 @@ Olá meu nome é Lívia Gonçalves Vidoto 👋
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="C" height="30" width="40" src="<img width="600" height="600" alt="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cpp/cpp-original.svg" />
->
-  <img align="center" alt="C++" height="30" width="40" src="<img width="1280" height="1441" alt="image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-">
-</div>
 
 <h3 align="left">Entre em contato comigo! 🗨️</h3>
 
