@@ -5,14 +5,15 @@ Olá meu nome é Lívia Gonçalves Vidoto 👋
 
 <h3 align="left">Tecnologias 💻</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/8a420646-4ac0-4110-aafe-aab48991eaf9" />
+>
+  <img align="center" alt="C++" height="30" width="40" src="<img width="1280" height="1441" alt="image" src="https://github.com/user-attachments/assets/96f2b54a-e487-43af-b1ef-89140046a89d" />
+">
 </div>
 
 <h3 align="left">Entre em contato comigo! 🗨️</h3>
